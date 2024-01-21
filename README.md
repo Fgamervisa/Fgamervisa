@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" alt="VSCode" width="40" height="40"/> </a>
 -->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Fgamervisa/github-readme-stats&showicons=true&theme=vision_friendly_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark)
