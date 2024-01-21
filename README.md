@@ -15,12 +15,12 @@
 <tr>
 <td>
 
-[![](https://skillicons.dev/icons?i=py,arduino,js,nodejs,html,bootstrap,css,mysql)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,arduino,js,nodejs,html,bootstrap,css,mysql&perline=4)](https://skillicons.dev)
 
 </td>
 <td>
 
-[![](https://skillicons.dev/icons?i=vscode,anaconda,anaconda,linux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode,anaconda,linux&perline=4)](https://skillicons.dev)
 
 </td>
 </tr>
