@@ -1,19 +1,13 @@
-### Hi there 👋
+### About me
 
-<!--
-**Fgamervisa/Fgamervisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently accepting orders on fiverr (same username)
+- 🌱 I’m currently learning AI data analysis
+- 📫 How to reach me: write to me on fiverr
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+####tools and languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 > "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark)
