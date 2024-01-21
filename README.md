@@ -5,7 +5,7 @@
 - 📫 How to reach me: write to me on fiverr
 - 😄 Pronouns: he/him
 
-
+<br>
 <!-- list of languages and tools: python, nodejs, sql, html, css, bootstrap, arduino, visual studio, pycharm-->
 <table>
 <tr>
