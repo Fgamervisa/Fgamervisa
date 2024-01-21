@@ -5,8 +5,26 @@
 - 📫 How to reach me: write to me on fiverr
 - 😄 Pronouns: he/him
 
-#### tools and languages:
 
+<!-- list of languages and tools: python, nodejs, sql, html, css, bootstrap, arduino, visual studio, pycharm-->
+<table>
+<tr>
+<th> languages </th>
+<th> Tools </th>
+</tr>
+<tr>
+<td>
+
+[![](https://skillicons.dev/icons?i=py,arduino,js,nodejs,html,bootstrap,css,mysql)](https://skillicons.dev)
+
+</td>
+<td>
+
+[![](https://skillicons.dev/icons?i=vscode,anaconda,anaconda,linux)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
 
 > "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
 
