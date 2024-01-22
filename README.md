@@ -38,7 +38,7 @@
     
   </summary>
 
-  [CheatPapers](https://github.com/Fgamervisa/CheatPapers-language/tree/main)
+> [CheatPapers](https://github.com/Fgamervisa/CheatPapers-language/tree/main)
   
   
 </details>
