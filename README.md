@@ -6,8 +6,6 @@
 - 😄 Pronouns: he/him
 -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fgamervisa&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact)
 
 <br>
