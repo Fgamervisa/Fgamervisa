@@ -5,6 +5,7 @@
 - 📫 How to reach me: write to me on fiverr
 - 😄 Pronouns: he/him
 -->
+![Stats](https://github-readme-stats.vercel.app/api?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark)
 <br>
 <!-- list of languages and tools: python, nodejs, sql, html, css, bootstrap, arduino, visual studio, pycharm-->
 <table style="background-color: #000000 !important; color: #FFB000 !important; border: 1px solid #E4E2E2 !important">
@@ -43,4 +44,4 @@
 
 > "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark)
+
