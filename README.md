@@ -31,7 +31,7 @@
 <details>
   <summary>
     
-  [![](https://skillicons.dev/icons?i=py&perline=4)]
+  ![](https://skillicons.dev/icons?i=py&perline=4)
     
   </summary>
   
