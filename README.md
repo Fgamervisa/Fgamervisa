@@ -34,19 +34,9 @@
   ![](https://skillicons.dev/icons?i=py&perline=4)
     
   </summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
 
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+  [One of my first projects](https://github.com/Fgamervisa/CheatPapers-language/tree/main)
+  
 </details>
 
 
