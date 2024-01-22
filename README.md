@@ -20,7 +20,7 @@
 </td>
 <td>
 
-[![](https://skillicons.dev/icons?i=vscode,anaconda,linux&perline=4)]
+![](https://skillicons.dev/icons?i=vscode,anaconda,linux&perline=4)
 
 </td>
 </tr>
@@ -35,7 +35,8 @@
     
   </summary>
 
-  [One of my first projects](https://github.com/Fgamervisa/CheatPapers-language/tree/main)
+  [CheatPapers](https://github.com/Fgamervisa/CheatPapers-language/tree/main)
+  
   
 </details>
 
