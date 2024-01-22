@@ -20,7 +20,7 @@
 </td>
 <td>
 
-[![](https://skillicons.dev/icons?i=vscode,anaconda,linux&perline=4)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode,anaconda,linux&perline=4)]
 
 </td>
 </tr>
@@ -31,7 +31,7 @@
 <details>
   <summary>
     
-  [![](https://skillicons.dev/icons?i=py&perline=4)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=py&perline=4)]
     
   </summary>
   
