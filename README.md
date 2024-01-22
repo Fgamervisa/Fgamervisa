@@ -1,5 +1,4 @@
 <!--
-
 - 🔭 I’m currently accepting orders on fiverr (same username)
 - 🌱 I’m currently learning AI data analysis
 - 📫 How to reach me: write to me on fiverr
@@ -7,7 +6,7 @@
 -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fgamervisa&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- list of languages and tools: python, nodejs, sql, html, css, bootstrap, arduino, visual studio, pycharm-->
 <table style="background-color: #000000 !important; color: #FFB000 !important; border: 1px solid #E4E2E2 !important">
