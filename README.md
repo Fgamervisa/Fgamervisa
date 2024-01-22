@@ -7,7 +7,7 @@
 
 <br>
 <!-- list of languages and tools: python, nodejs, sql, html, css, bootstrap, arduino, visual studio, pycharm-->
-<table>
+<table style="background-color: #000000; color: #FFB000; border: 1px solid #E4E2E2">
 <tr>
 <th> languages </th>
 <th> Tools </th>
