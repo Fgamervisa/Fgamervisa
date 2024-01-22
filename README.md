@@ -38,9 +38,22 @@
   </summary>
 
 > [CheatPapers](https://github.com/Fgamervisa/CheatPapers-language/tree/main)
+ 
+> [robotic Homeworks](https://github.com/Fgamervisa/robotics)
+  
+</details>
+<details>
+  <summary>
+    
+![](https://skillicons.dev/icons?i=html,css,js&perline=4)
+    
+  </summary>
+
+> [Robotic homeworks](https://github.com/Fgamervisa/robotics)
+
+> [Colombo School Database](https://github.com/Fgamervisa/Scuola-colombo-database)
   
   
 </details>
-
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
