@@ -4,6 +4,9 @@
 - 📫 How to reach me: write to me on fiverr
 - 😄 Pronouns: he/him
 -->
+
+# my stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fgamervisa&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact)
 
@@ -57,3 +60,9 @@
 </details>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
+### About me:
+
+pie
+"Movies" : 80
+"TV shows" : 20
