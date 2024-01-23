@@ -63,6 +63,14 @@
 
 ### About me:
 
-pie
-"Movies" : 80
-"TV shows" : 20
+🎓 Computer Science Student at Istituto Freud School
+
+I'm currently on the journey of mastering the intricacies of Computer Science at Istituto Freud School. Balancing academic endeavors and my passion for coding, I'm enthusiastic about exploring the limitless possibilities that technology offers.
+
+💼 Freelancing on Fiverr
+
+Find me on Fiverr as Fgamervisa, where I provide services tailored to your needs. From coding tasks to turning creative ideas into reality, I'm here to bring your projects to life.
+
+📫 Let's Connect
+
+I'm passionate about collaboration and connecting with like-minded individuals. Whether it's discussing the latest tech trends or exploring potential projects, feel free to reach out on [Fiverr](https://it.fiverr.com/fgamervisa) or via email Fgamervisa@gmail.com
