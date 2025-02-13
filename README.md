@@ -63,18 +63,14 @@
 
 🎓 Computer Science Student at Istituto Freud School
 
-I'm currently on the journey of mastering the intricacies of Computer Science at Istituto Freud School. Balancing academic endeavors and my passion for coding, I'm enthusiastic about exploring the limitless possibilities that technology offers.
+I am a dedicated Computer Science student at Istituto Freud School, currently enhancing my expertise in AI data analysis. My academic journey is complemented by a passion for coding, and I am eager to explore the vast opportunities that technology presents.
 
-💼 Freelancing on Fiverr
+💼 Professional services
 
-Find me on Fiverr as Fgamervisa, where I provide services tailored to your needs. From coding tasks to turning creative ideas into reality, I'm here to bring your projects to life.
+I offer a range of services tailored to your needs, from coding tasks to transforming creative ideas into reality. Let's collaborate to bring your projects to life.
 
 📫 Let's Connect
 
-I'm passionate about collaboration and connecting with like-minded individuals. Whether it's discussing the latest tech trends or exploring potential projects, feel free to reach out on [Fiverr](https://it.fiverr.com/fgamervisa) or via email Fgamervisa@gmail.com
-
-### Work with me
-
-<img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" style="height:240px; width:240px">
+I am passionate about collaboration and connecting with like-minded individuals. Whether it's discussing the latest tech trends or exploring potential projects, feel free to reach out via email at Fgamervisa@gmail.com.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
