@@ -1,56 +1,80 @@
-Hey there! 👋
+<!--
+- 🔭 I’m currently accepting orders on fiverr (same username)
+- 🌱 I’m currently learning AI data analysis
+- 📫 How to reach me: write to me on fiverr
+- 😄 Pronouns: he/him
+-->
 
-I'm currently diving deep into the world of Computer Science at Istituto Freud School, balancing my studies with a passion for coding and all things tech.
+# my stats
 
-## My GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fgamervisa&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact)
+<!-- list of languages and tools: python, nodejs, sql, html, css, bootstrap, arduino, visual studio, pycharm-->
+<table style="background-color: #000000 !important; color: #FFB000 !important; border: 1px solid #E4E2E2 !important">
+<tr>
+<th> languages </th>
+<th> Tools </th>
+</tr>
+<tr>
+<td>
 
-## Languages and Tools I Use
+[![](https://skillicons.dev/icons?i=py,arduino,js,nodejs,html,bootstrap,css,mysql&perline=4)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</td>
+<td>
 
-## Some of My Projects
+![](https://skillicons.dev/icons?i=vscode,anaconda,linux&perline=4)
+
+</td>
+</tr>
+</table>
+
+## my projects:
 
 <details>
   <summary>
-    [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    
+  ![](https://skillicons.dev/icons?i=py&perline=4)
+    
   </summary>
 
-- [CheatPapers](https://github.com/Fgamervisa/CheatPapers-language/tree/main)
-- [Robotics Projects](https://github.com/Fgamervisa/robotics)
-
+> [CheatPapers](https://github.com/Fgamervisa/CheatPapers-language/tree/main)
+ 
+> [robotic Homeworks](https://github.com/Fgamervisa/robotics)
+  
 </details>
-
 <details>
   <summary>
-    [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    
+![](https://skillicons.dev/icons?i=html,css,js&perline=4)
+    
   </summary>
 
-- [Robotics Projects](https://github.com/Fgamervisa/robotics)
-- [Colombo School Database](https://github.com/Fgamervisa/Scuola-colombo-database)
+> [Robotic homeworks](https://github.com/Fgamervisa/robotics)
 
+> [Colombo School Database](https://github.com/Fgamervisa/Scuola-colombo-database)
+  
+  
 </details>
 
-## About Me
+### About me:
 
-🎓 **Computer Science Student at Istituto Freud School**
+🎓 Computer Science Student at Istituto Freud School
 
-I'm currently on a journey to master the intricacies of Computer Science at Istituto Freud School. Balancing academic pursuits with a passion for coding, I'm enthusiastic about exploring the endless possibilities that technology offers.
+I'm currently on the journey of mastering the intricacies of Computer Science at Istituto Freud School. Balancing academic endeavors and my passion for coding, I'm enthusiastic about exploring the limitless possibilities that technology offers.
 
-📫 **Let's Connect**
+💼 Freelancing on Fiverr
 
-I'm always open to collaboration and connecting with like-minded individuals. Feel free to reach out via email at Fgamervisa@gmail.com.
+Find me on Fiverr as Fgamervisa, where I provide services tailored to your needs. From coding tasks to turning creative ideas into reality, I'm here to bring your projects to life.
 
----
+📫 Let's Connect
 
-Looking forward to connecting with you! 😊
+I'm passionate about collaboration and connecting with like-minded individuals. Whether it's discussing the latest tech trends or exploring potential projects, feel free to reach out on [Fiverr](https://it.fiverr.com/fgamervisa) or via email Fgamervisa@gmail.com
+
+### Work with me
+
+<img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" style="height:240px; width:240px">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
