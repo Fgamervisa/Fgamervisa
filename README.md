@@ -1,21 +1,21 @@
 <!--
-- 🔭 Currently accepting orders on Fiverr (same username)
-- 🌱 Currently learning AI data analysis
-- 📫 Reach me via Fiverr
+- 🔭 I’m currently accepting orders on Fiverr (same username)
+- 🌱 I’m currently learning AI data analysis
+- 📫 How to reach me: write to me on Fiverr
 - 😄 Pronouns: he/him
 -->
 
-# My Statistics
+# My Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Fgamervisa&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact)
 
 ## Languages and Tools
 
 ![Languages](https://skillicons.dev/icons?i=py,arduino,js,nodejs,html,bootstrap,css,mysql&perline=4)
 ![Tools](https://skillicons.dev/icons?i=vscode,anaconda,linux&perline=4)
 
-## Projects
+## My Projects
 
 <details>
   <summary>
