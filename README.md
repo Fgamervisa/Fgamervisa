@@ -66,6 +66,7 @@
 I offer a range of services tailored to your needs, from coding tasks to transforming creative ideas into reality.
 
 📫 Let's Connect
-I am passionate about collaboration and connecting with like-minded individuals. Whether it's discussing the latest tech trends or exploring potential projects, feel free to reach out via email at Fgamervisa@gmail.com.
+
+Whether it's discussing the latest tech trends or exploring potential projects, feel free to reach out via email at Fgamervisa@gmail.com.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
